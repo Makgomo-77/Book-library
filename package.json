@@ -8,6 +8,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "devDependencies": {
+  "vite": "^4.0.0",
+  "@vitejs/plugin-react": "^4.0.0"
+}
   },
   "dependencies": {
     "react": "^19.1.1",
