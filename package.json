@@ -3,15 +3,17 @@
   "private": "true",
   "version": "1.0.0",
   "type": "module",
+},
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+},
     "devDependencies": {
   "vite": "^4.0.0",
   "@vitejs/plugin-react": "^4.0.0"
-}
+
   },
   "dependencies": {
     "react": "^19.1.1",
@@ -32,7 +34,7 @@
     "tailwindcss": "^4.1.14",
     "vite": "^7.1.7"
   }
-}
+} ,
 {
   "routes": [
     {
